@@ -1,2 +1,2 @@
 # SpringBootArch
-Default, Standard and the most Performant Spring Boot NTier Architecture project.
+A Standard, Efficient and Performant Spring Boot NTier Blank Architecture.
